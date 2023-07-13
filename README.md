@@ -6,6 +6,10 @@
 
 </div>
 
+<div align="center">
+  <h4>Misc.</h4>
+</div>
+
 **Socials**
 
 [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
