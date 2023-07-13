@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img width="800" height="200" src="images/d4emonsavi.png" alt="my banner">   
+  <img src="images/d4emonsavi.png" alt="my banner">   
 </p>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4emonsAVI&theme=react&cache_seconds=1800)
