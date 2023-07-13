@@ -12,5 +12,5 @@
 
 **News**
 
-[![Link - LinkedIn](https://img.shields.io/badge/news-blue?style=for-the-badge&logo=news)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
-[![Link - Discord](https://img.shields.io/badge/news-blue?style=for-the-badge&logo=news)](https://discord.gg/her3tic_avi#5688)
+[![Link - LinkedIn](https://img.shields.io/badge/social-news-blue?style=for-the-badge&logo=news)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
+[![Link - Discord](https://img.shields.io/badge/social-news-blue?style=for-the-badge&logo=news)](https://discord.gg/her3tic_avi#5688)
