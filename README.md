@@ -15,3 +15,13 @@
 
 [![Link - news](https://img.shields.io/badge/news-ressearch-blue?style=for-the-badge&logo=news)](https://dsu.edu/news/2023/02/be-a-little-stubborn.html)
 [![Link - capital](https://img.shields.io/badge/news-lobbying-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
+
+**Rocket Suite - Offensive**
+
+[![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/TITANII)
+[![Link - github](https://img.shields.io/badge/Tool-APOLLOXVIII-orange?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/APOLLOXVIII)
+
+
+**Bird Suite - Car Pentesting**
+
+[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/TOUCANbus)
