@@ -17,7 +17,7 @@
 **News**
 
 [![Link - news](https://img.shields.io/badge/news-research-blue?style=for-the-badge&logo=news)](https://dsu.edu/news/2023/02/be-a-little-stubborn.html)
-[![Link - Research](https://img.shields.io/badge/news-Defcon-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
+[![Link - Research](https://img.shields.io/badge/news-Research-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
 [![Link - capital](https://img.shields.io/badge/news-lobbying-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
 [![Link - Defcon](https://img.shields.io/badge/news-Defcon-blue?style=for-the-badge&logo=news)](https://www.npr.org/2023/08/15/1193773829/what-happens-when-thousands-of-hackers-try-to-break-ai-chatbots)
 
