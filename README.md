@@ -20,7 +20,7 @@
 [![Link - Research](https://img.shields.io/badge/news-Research-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
 [![Link - capital](https://img.shields.io/badge/news-lobbying-blue?style=for-the-badge&logo=news)](https://fb.watch/mDa_oIGKOP/?mibextid=Nif5oz)
 [![Link - Defcon](https://img.shields.io/badge/news-Defcon-blue?style=for-the-badge&logo=news)](https://www.npr.org/2023/08/15/1193773829/what-happens-when-thousands-of-hackers-try-to-break-ai-chatbots)
-[![Link - In the News](https://img.shields.io/badge/news-Defcon-blue?style=for-the-badge&logo=news)](https://www.google.com/search?q=ben+bowman+hack&oq=ben+bowman+hack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDM3NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1)
+[![Link - In the News](https://img.shields.io/badge/news-Mentions-blue?style=for-the-badge&logo=news)](https://www.google.com/search?q=ben+bowman+hack&oq=ben+bowman+hack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDM3NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1)
 
 
 ---
