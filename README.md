@@ -14,7 +14,7 @@
 [![Link - Discord](https://img.shields.io/badge/Social-Discord-red?style=for-the-badge&logo=discord)](https://discord.gg/her3tic_avi#5688)
 [![Link - Twitter](https://img.shields.io/badge/Social-Twitter-red?style=for-the-badge&logo=twitter)](https://twitter.com/d4emonsAVI?t=PB22wdFKHRptbi0pABx17g&s=09)
 
-**Ben's News**
+**News**
 
 [![Link - news](https://img.shields.io/badge/news-research-blue?style=for-the-badge&logo=news)](https://dsu.edu/news/2023/02/be-a-little-stubborn.html)
 [![Link - Research](https://img.shields.io/badge/news-Research-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
@@ -24,8 +24,6 @@
 
 
 ---
-### Tool Suites
-
 
 **Rocket Suite - Offensive**
 
