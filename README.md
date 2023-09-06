@@ -2,7 +2,7 @@
   <img src="images/logo.png" alt="my banner">   
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=her3ticAVI&theme=react&cache_seconds=1800)
-![Stats](https://github-readme-stats.vercel.app/api?username=her3ticsAVI&theme=react&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=her3ticAVI&theme=react&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 </div>
 
