@@ -29,10 +29,16 @@
 
 **Rocket Suite - Offensive**
 
-[![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/TITANII)
-[![Link - github](https://img.shields.io/badge/Tool-APOLLOXVIII-orange?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/APOLLOXVIII)
-[![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/SPUTNIK)
+[![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
+[![Link - github](https://img.shields.io/badge/Tool-APOLLOXVIII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/APOLLOXVIII)
+[![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 
 **Bird Suite - Car Pentesting**
 
-[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/d4emonsAVI/TOUCANbus)
+[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
+
+**Roundtable Suite - Defensive and IR Tools**
+
+[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/MERlin)
+
+
