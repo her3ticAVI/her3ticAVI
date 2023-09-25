@@ -39,6 +39,6 @@
 
 **Roundtable Suite - Defensive and IR Tools**
 
-[![Link - github](https://img.shields.io/badge/Tool-MERlin-blue?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/MERlin)
+[![Link - github](https://img.shields.io/badge/Tool-MERlin-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/MERlin)
 
 
