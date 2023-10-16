@@ -37,7 +37,7 @@
 
 [![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
 
-**Roundtable Suite - Defensive and IR Tools**
+**Roundtable Suite - Defensive Tools**
 
 [![Link - github](https://img.shields.io/badge/Tool-MERlin-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/MERlin)
 
