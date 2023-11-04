@@ -6,7 +6,7 @@
           <br>
         </td>
         <td align="Center" width="600">
-            <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+            <img src = "https://github.com/her3ticAVI/her3ticAVI/blob/main/images/pentesting.gif" width = 500px>
           </a>
           <br>
         </td>
