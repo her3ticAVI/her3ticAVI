@@ -1,8 +1,18 @@
 <div align="center">
   <img src="images/heretic.png" alt="my banner">   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=her3ticAVI&theme=react&cache_seconds=1800)
-![Stats](https://github-readme-stats.vercel.app/api?username=her3ticAVI&theme=react&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <table>
+        <td align="Left" width="600">
+            <img src="https://metrics.lecoq.io/her3ticAVI">
+          </a>
+          <br>
+        </td>
+        <td align="Center" width="600">
+            <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+          </a>
+          <br>
+        </td>
+    </table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 **Socials**
