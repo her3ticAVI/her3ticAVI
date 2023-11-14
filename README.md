@@ -41,12 +41,10 @@
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 [![Link - github](https://img.shields.io/badge/Tool-BadUSBScripts-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BadUSBScripts)
 
-**Bird Suite - Mod & Can Bus Pentesting**
-
-[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
-
 **Roundtable Suite - Defensive**
 
 [![Link - github](https://img.shields.io/badge/Tool-MERlin-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/MERlin)
 
+**Bird Suite - Mod & Can Bus Pentesting**
 
+[![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
