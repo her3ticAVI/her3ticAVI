@@ -11,6 +11,7 @@
           <br>
         </td>
     </table>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+Ben%2C+nice+to+meet+you+%3AD;I've+been+pentesting+for+9+years%2C+starting+in+middle+school.;I+make+tools+to+automate+the+hard+things." alt="Typing SVG" /></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
