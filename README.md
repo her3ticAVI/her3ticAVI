@@ -1,3 +1,5 @@
+Invoke-Command -ComputerName "RemoteComputer" -ScriptBlock {Get-NetTCPConnection | Where-Object { $_.LocalPort -eq 21 -or $_.RemotePort -eq 21 } | Select-Object OwningProcess, LocalAddress, LocalPort, RemoteAddress, RemotePort}
+
 <div align="center">
   <img src="images/heretic.png" alt="my banner">   
     <table>
