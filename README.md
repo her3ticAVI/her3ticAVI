@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/heretic.png" alt="my banner">   
     <table>
-        <td align="Left" width="600">
+        <td align="Center" width="600">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=her3ticAVI&theme=react&cache_seconds=1800" alt="Languages" width="300px">
         </td>
         <td align="Center" width="600">
