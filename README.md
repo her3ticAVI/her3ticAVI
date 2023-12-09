@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/heretic.png" alt="my banner">   
     <table>
-        <td align="Left" width="600">
+        <td align="Center" width="600">
           <img src = "https://github.com/her3ticAVI/her3ticAVI/blob/main/images/memetic.gif" width = 300px>
           <br>
         </td>
