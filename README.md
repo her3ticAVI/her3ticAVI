@@ -2,12 +2,7 @@
   <img src="images/heretic.png" alt="my banner">   
     <table>
         <td align="Left" width="600">
-          <ul>
-            <li>Red Teamer</li>
-            <li>Coder</li>
-            <li>Speaker</li>
-            <li>Learning Go ATM</li>
-          </ul>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminiserman&theme=react&cache_seconds=1800" alt="Languages" width="100%">
         </td>
         <td align="Center" width="600">
             <img src = "https://github.com/her3ticAVI/her3ticAVI/blob/main/images/circuits.gif" width = 300px>
