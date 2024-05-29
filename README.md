@@ -37,7 +37,11 @@
 
 **Nature Suite - Defensive**
 
-Honey Comb on its way
+None Yet
+
+**Black Smith Suite - Training**
+
+None Yet
 
 **Bird Suite - Mod & Can Bus Pentesting**
 
