@@ -1,6 +1,5 @@
 <div align="center">
   <img src="images/heretic_banner.png" alt="my banner">   
-    <table>
       <td align="center" width="600">
         <table>
           <tr>
@@ -13,7 +12,6 @@
           </tr>
         </table>
       </td>
-    </table>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+9+years.;I+make+tools+to+automate+pentesting.;I+love+to+code%2C+and+frogs." alt="Typing SVG" /></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
