@@ -51,3 +51,5 @@ None Yet
 **Bird Suite - Mod & Can Bus Pentesting**
 
 [![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
+
+![Snake animation](https://raw.githubusercontent.com/her3ticAVI/her3ticAVI/output/github-contribution-grid-snake-dark.svg)
