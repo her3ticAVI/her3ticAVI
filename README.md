@@ -12,7 +12,6 @@
 **Socials**
 
 [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
-[![Link - Discord](https://img.shields.io/badge/Social-Discord-red?style=for-the-badge&logo=discord)](https://discord.gg/her3tic_avi#5688)
 [![Link - Twitter](https://img.shields.io/badge/Social-Twitter-red?style=for-the-badge&logo=twitter)](https://twitter.com/her3ticAVI)
 
 **News**
