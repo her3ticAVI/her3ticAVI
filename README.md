@@ -23,6 +23,7 @@
 [![Link - Defcon](https://img.shields.io/badge/news-Defcon-blue?style=for-the-badge&logo=news)](https://www.npr.org/2023/08/15/1193773829/what-happens-when-thousands-of-hackers-try-to-break-ai-chatbots)
 [![Link - SDPB](https://img.shields.io/badge/news-SDPB-blue?style=for-the-badge&logo=news)](https://listen.sdpb.org/science/2023-09-06/dsu-student-shares-lessons-from-hacker-conference)
 [![Link - news](https://img.shields.io/badge/news-misictf-blue?style=for-the-badge&logo=news)](https://www.wmar2news.com/local/hack-the-hospital-event-helps-student-learn-the-importance-of-cybersecurity)
+[![Link - news](https://img.shields.io/badge/news-BHIS-blue?style=for-the-badge&logo=news)](https://www.blackhillsinfosec.com/team/ben-bowman/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
