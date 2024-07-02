@@ -35,13 +35,13 @@
 [![Link - github](https://img.shields.io/badge/Tool-APOLLOXVIII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/APOLLOXVIII)
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 
-**Nature Suite - Defensive**
+**Bug Suite - Defensive**
 
 None Yet
 
 **Black Smith Suite - Training**
 
-None Yet
+[![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
 
 **Bird Suite - Mod & Can Bus Pentesting**
 
