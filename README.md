@@ -39,6 +39,7 @@
 [![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
 [![Link - github](https://img.shields.io/badge/Tool-APOLLOXVIII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/APOLLOXVIII)
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
+[![Link - github](https://img.shields.io/badge/Tool-APOLLOXIII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 
 **Bug Suite - Defensive**
 
@@ -47,6 +48,7 @@ None Yet
 **Black Smith Suite - Training**
 
 [![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
+[![Link - github](https://img.shields.io/badge/Tool-AIExploitation-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
 
 **Bird Suite - Mod & Can Bus Pentesting**
 
