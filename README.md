@@ -34,21 +34,23 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-**Weapons Suite - Offensive**
+**Weapons Suite - Offensive Tools**
 
 [![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
 [![Link - github](https://img.shields.io/badge/Tool-OLYMPII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/OLYMPII)
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
+[!Link - github]([https://](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT))
 [![Link - github](https://img.shields.io/badge/Tool-PEACEKEEPER-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PEACEKEEPER)
 
-**Bug Suite - Defensive**
+**Bug Suite - Defensive Tools**
 
 None Yet
 
-**Black Smith Suite - Training**
+**Black Smith Suite - Training Repos**
 
 [![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
-[![Link - github](https://img.shields.io/badge/Tool-AIExploitation-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
+[![Link - github](https://img.shields.io/badge/Tool-AIExploitation-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/ExploitingAIFramework)
+[![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
 
 **Bird Suite - Mod & Can Bus Pentesting**
 
