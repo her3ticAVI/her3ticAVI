@@ -44,7 +44,7 @@
 
 **Bug Suite - Defensive Tools**
 
-[![Link - github](https://img.shields.io/badge/Tool-GO-SPOOF-blue?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
+[![Link - github](https://img.shields.io/badge/Tool-GO-SPOOF-orange?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
 
 **Black Smith Suite - Training Repos**
 
