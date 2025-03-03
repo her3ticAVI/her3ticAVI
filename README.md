@@ -23,6 +23,8 @@
 
 **News**
 
+[![Link - news](https://img.shields.io/badge/published-research-blue?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
+
 [![Link - news](https://img.shields.io/badge/news-research-blue?style=for-the-badge&logo=news)](https://dsu.edu/news/2023/02/be-a-little-stubborn.html)
 [![Link - Research](https://img.shields.io/badge/news-Research-blue?style=for-the-badge&logo=news)](https://www.capjournal.com/ben-bowman-dsu/image_ea8c54f0-a806-11ed-85ff-97e3f06bbef3.html)
 [![Link - capital](https://img.shields.io/badge/news-lobbying-blue?style=for-the-badge&logo=news)](https://fb.watch/mDa_oIGKOP/?mibextid=Nif5oz)
