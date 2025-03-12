@@ -20,7 +20,7 @@
 
 [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
 [![Link - Twitter](https://img.shields.io/badge/Social-Twitter-red?style=for-the-badge&logo=x)](https://twitter.com/her3ticAVI)
-[![Link - Instructor at Antisyphon](https://img.shields.io/badge/Social-Antisyphon-Instructor-red?style=for-the-badge&logo=x)](https://www.antisyphontraining.com/instructor/bbowman/)
+[![Link - Instructor at Antisyphon](https://img.shields.io/badge/Social-AntisyphonInstructor-red?style=for-the-badge&logo=x)](https://www.antisyphontraining.com/instructor/bbowman/)
 
 **News**
 
