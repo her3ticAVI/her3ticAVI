@@ -16,6 +16,8 @@
 <hr>
 </div>
 
+## In the Public Eye
+
 **Socials**
 
 [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benjamin-bowman-958740250/)
@@ -35,6 +37,8 @@
 
 <hr>
 
+## Tools
+
 **Weapons Suite - Offensive Tools**
 
 [![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
@@ -50,7 +54,7 @@
 **Black Smith Suite - Training Repos**
 
 [![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
-[![Link - github](https://img.shields.io/badge/Tool-AIExploitation-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/ExploitingAIFramework)
+[![Link - github](https://img.shields.io/badge/Tool-ExploitingAI-green?style=for-the-badge&logo=github)](https://github.com/NullTrace-Security/Exploiting-AI)
 [![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
 
 **Bird Suite - Mod & Can Bus Pentesting**
