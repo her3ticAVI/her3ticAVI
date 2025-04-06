@@ -13,7 +13,7 @@
         </table>
       </td>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+9+years.;I+make+tools+to+automate+pentesting.;I+love+to+code%2C+and+frogs." alt="Typing SVG" /></a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 </div>
 
 **Socials**
@@ -33,8 +33,7 @@
 [![Link - news](https://img.shields.io/badge/news-misictf-blue?style=for-the-badge&logo=news)](https://www.wmar2news.com/local/hack-the-hospital-event-helps-student-learn-the-importance-of-cybersecurity)
 [![Link - news](https://img.shields.io/badge/news-BHIS-blue?style=for-the-badge&logo=news)](https://www.blackhillsinfosec.com/team/ben-bowman/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<hr>
 
 **Weapons Suite - Offensive Tools**
 
