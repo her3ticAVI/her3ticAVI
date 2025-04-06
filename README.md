@@ -12,7 +12,7 @@
           </tr>
         </table>
       </td>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+9+years.;I+make+tools+to+automate+pentesting.;I+love+to+code%2C+and+frogs." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+11+years.;I+make+tools+to+automate+pentesting.;I love birds." alt="Typing SVG" /></a>
 
 </div>
 
