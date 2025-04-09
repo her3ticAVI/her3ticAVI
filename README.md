@@ -1,17 +1,5 @@
 <div align="center">
   <img src="images/heretic_banner.png" alt="my banner">   
-      <td align="center" width="600">
-        <table>
-          <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=her3ticAVI&theme=react&cache_seconds=1800" alt="Languages" width="300px">
-            </td>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=her3ticAVI&theme=react" alt="Languages" width="300px">
-            </td>
-          </tr>
-        </table>
-      </td>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+11+years.;I+make+tools+to+automate+pentesting.;I love birds." alt="Typing SVG" /></a>
 
 </div>
