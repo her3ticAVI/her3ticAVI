@@ -18,6 +18,11 @@
 [![Link - GoSpoof](https://img.shields.io/badge/Blog-GoSpoof-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
 [![Link - WifiForge](https://img.shields.io/badge/Blog-WifiForge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
 
+**Webcasts**
+
+[![Link - AI](https://img.shields.io/badge/Webcast-ExploitingAI-pink?style=for-the-badge&logo=null)](https://www.youtube.com/watch?v=g9oVDHLQUmE&t=1088s)
+[![Link - WifiForge](https://img.shields.io/badge/Webcast-HackingWiFi-pink?style=for-the-badge&logo=null)](https://www.youtube.com/watch?v=lqvq3xH0qYM&t=8s)
+
 **News**
 
 [![Link - news](https://img.shields.io/badge/published-research-blue?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
