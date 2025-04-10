@@ -14,9 +14,9 @@
 
 **Blogs**
 
-[![Link - Offensive Forensics](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/offline-memory-forensics-with-volatility/)
-[![Link - GoSpoof](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
-[![Link - WifiForge](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
+[![Link - Offensive Forensics](https://img.shields.io/badge/Blog-OffensiveForensics-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/offline-memory-forensics-with-volatility/)
+[![Link - GoSpoof](https://img.shields.io/badge/Blog-GoSpoof-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
+[![Link - WifiForge](https://img.shields.io/badge/Blog-WifiForge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
 
 **News**
 
