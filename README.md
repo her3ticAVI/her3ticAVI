@@ -12,6 +12,11 @@
 [![Link - Twitter](https://img.shields.io/badge/Social-Twitter-red?style=for-the-badge&logo=x)](https://twitter.com/her3ticAVI)
 [![Link - Instructor at Antisyphon](https://img.shields.io/badge/Social-InstructorAntisyphon-red?style=for-the-badge&logo=Antisyphon)](https://www.antisyphontraining.com/instructor/bbowman/)
 
+**Blogs**
+[![Link - Offensive Forensics](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/offline-memory-forensics-with-volatility/)
+[![Link - GoSpoof](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
+[![Link - WifiForge](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
+
 **News**
 
 [![Link - news](https://img.shields.io/badge/published-research-blue?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
