@@ -16,9 +16,9 @@
 
 [![Link - Offensive Forensics](https://img.shields.io/badge/Website-NullTraceSec-black?style=for-the-badge&logo=null)](https://www.nulltracesecurity.com)
 [![Link - Offensive Forensics](https://img.shields.io/badge/LinkedIn-NullTraceSec-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nulltrace-security)
-[![Link - Offensive Forensics](https://img.shields.io/badge/YouTube-NullTraceSec-black?style=for-the-badge&logo=null)](https://www.youtube.com/@NullTraceSec)
+[![Link - Offensive Forensics](https://img.shields.io/badge/YouTube-NullTraceSec-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/@NullTraceSec)
 [![Link - Offensive Forensics](https://img.shields.io/badge/Blog-NullTraceSec-black?style=for-the-badge&logo=x)](https://x.com/NullTraceSec)
-[![Link - Offensive Forensics](https://img.shields.io/badge/GitHub-NullTraceSec-black?style=for-the-badge&logo=null)](https://github.com/orgs/NullTrace-Security)
+[![Link - Offensive Forensics](https://img.shields.io/badge/GitHub-NullTraceSec-black?style=for-the-badge&logo=github)](https://github.com/orgs/NullTrace-Security)
 
 **Blogs**
 
