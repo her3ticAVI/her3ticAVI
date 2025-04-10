@@ -13,6 +13,7 @@
 [![Link - Instructor at Antisyphon](https://img.shields.io/badge/Social-InstructorAntisyphon-red?style=for-the-badge&logo=Antisyphon)](https://www.antisyphontraining.com/instructor/bbowman/)
 
 **Blogs**
+
 [![Link - Offensive Forensics](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/offline-memory-forensics-with-volatility/)
 [![Link - GoSpoof](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
 [![Link - WifiForge](https://img.shields.io/badge/Social-Blog-red?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
