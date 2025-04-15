@@ -1,6 +1,5 @@
 <div align="center">
   <img src="images/heretic_banner.png" alt="my banner">   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=31F7A5&random=false&width=435&lines=My+names+heretic%2C+nice+to+meet+you!;I've+been+pentesting+for+11+years.;I+make+tools+to+automate+pentesting.;I love birds." alt="Typing SVG" /></a>
 
 [SIGN UP FOR CLASSES WITH ME](https://www.antisyphontraining.com/instructor/bbowman/)
 
