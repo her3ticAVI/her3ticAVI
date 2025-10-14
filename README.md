@@ -53,6 +53,7 @@
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 [![Link - github](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT)
 [![Link - github](https://img.shields.io/badge/Tool-PEACEKEEPER-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PEACEKEEPER)
+[![Link - github](https://img.shields.io/badge/Tool-BabelFish-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BabelFish)
 
 **Bug Suite - Defensive Tools**
 
