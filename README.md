@@ -42,7 +42,7 @@
 
 **Publishments**
 
-[![Link - news](https://img.shields.io/badge/published-research-white?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
+[![Link - news](https://img.shields.io/badge/published-CyberDeception-white?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
 
 ## Tools
 
