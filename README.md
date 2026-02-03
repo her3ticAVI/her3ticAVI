@@ -49,6 +49,7 @@
 **Weapons Suite - Offensive Tools**
 
 [![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
+[![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
 [![Link - github](https://img.shields.io/badge/Tool-OLYMPII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/OLYMPII)
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 [![Link - github](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT)
