@@ -1,8 +1,6 @@
 <div align="center">
   <img src="images/heretic_banner.png" alt="my banner">   
 
-[SIGN UP FOR CLASSES WITH ME](https://www.antisyphontraining.com/instructor/bbowman/)
-
 ## In the Public Eye
 
 **Socials**
