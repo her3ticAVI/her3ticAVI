@@ -11,9 +11,8 @@
 
 [![Link - Offensive Forensics](https://img.shields.io/badge/Blog-OffensiveForensics-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/offline-memory-forensics-with-volatility/)
 [![Link - GoSpoof](https://img.shields.io/badge/Blog-GoSpoof-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
-[![Link - The P in PAM stands for persistence](https://img.shields.io/badge/Blog-The-P-in-PAM-stands-for-persistence-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
-
-[![Link - The P in PAM stands for persistence](https://img.shields.io/badge/Blog-WifiForge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/the-p-in-pam-is-for-persistence-linux-persistence-technique/)
+[![Link - WifiForge](https://img.shields.io/badge/Blog-Wififorge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
+[![Link - The P in PAM stands for persistence](https://img.shields.io/badge/Blog-PAMSkeletonKey-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/the-p-in-pam-is-for-persistence-linux-persistence-technique/)
 
 **Webcasts**
 
