@@ -13,6 +13,8 @@
 [![Link - GoSpoof](https://img.shields.io/badge/Blog-GoSpoof-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/go-spoof-a-tool-for-cyber-deception/)
 [![Link - WifiForge](https://img.shields.io/badge/Blog-WifiForge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/hack-wi-fi-with-no-wi-fi-wrapup/)
 
+[![Link - The P in PAM stands for persistence](https://img.shields.io/badge/Blog-WifiForge-purple?style=for-the-badge&logo=null)](https://www.blackhillsinfosec.com/the-p-in-pam-is-for-persistence-linux-persistence-technique/)
+
 **Webcasts**
 
 [![Link - AI](https://img.shields.io/badge/Webcast-ExploitingAI-pink?style=for-the-badge&logo=null)](https://www.youtube.com/watch?v=g9oVDHLQUmE&t=1088s)
