@@ -18,6 +18,7 @@
 
 [![Link - AI](https://img.shields.io/badge/Webcast-ExploitingAI-pink?style=for-the-badge&logo=null)](https://www.youtube.com/watch?v=g9oVDHLQUmE&t=1088s)
 [![Link - WifiForge](https://img.shields.io/badge/Webcast-HackingWiFi-pink?style=for-the-badge&logo=null)](https://www.youtube.com/watch?v=lqvq3xH0qYM&t=8s)
+[![Link - PAMSkeletonKey](https://img.shields.io/badge/Webcast-PAMSkeletonKey-pink?style=for-the-badge&logo=null)](https://www.youtube.com/live/j9QZUoG7_oY?si=wY6H7J-3vkp1q6IW)
 
 **News**
 
