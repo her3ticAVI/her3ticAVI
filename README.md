@@ -39,20 +39,28 @@
 
 **Cyber Deception Tools**
 
+These were mainly created to help support a research paper in the efficacy of cyber deception which can be found published on IEEE [here](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
+
 [![Link - github](https://img.shields.io/badge/Tool-GOSPOOF-yellow?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
 [![Link - github](https://img.shields.io/badge/Tool-Conpot-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/conpot)
 
 **Pentesting Aids**
+
+These just exist to fill small gaps in test tooling that exist.
 
 [![Link - github](https://img.shields.io/badge/Tool-BabelFish-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BabelFish)
 [![Link - github](https://img.shields.io/badge/Tool-CeWlMangle-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CeWL-Mangle)
 
 **Offensive Proof-of-concepts**
 
+These are simple tools but passion projects, usually created because I found it neat.
+
 [![Link - github](https://img.shields.io/badge/Tool-n8ked-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/n8ked)
 [![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
 
 **Space Suite - Offensive Tools - {{ These are all stale, once the Forge Suite is complete I will begin work here }}**
+
+These have not been started yet but exist to help with offensive testing like red teaming. Development has stopped due to the knowledge gap I currently have. I do not feel I can produce solid frameworks until I know more about the pre-existing tooling and offensive topics.
 
 [![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
 [![Link - github](https://img.shields.io/badge/Tool-OLYMPII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/OLYMPII)
@@ -60,18 +68,24 @@
 [![Link - github](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT)
 [![Link - github](https://img.shields.io/badge/Tool-PEACEKEEPER-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PEACEKEEPER)
 
-**Black Smith Suite - Training Repos**
+**Black Smith Suite - Wireless Landscape Training Tools**
+
+These tools were created with the soul purpose of helping individuals train on topics of all things wireless. I do not like the paywalls that hardware requires to learn. These were created to remove the paywalls behind hardware hacking so that all can learn for free.
 
 [![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/WifiForge)
 [![Link - github](https://img.shields.io/badge/Tool-SDRForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SDRForge)
 [![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
 [![Link - github](https://img.shields.io/badge/Tool-BlueForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BlueForge)
 
-**Bird Suite - Mod & Can Bus Pentesting**
+**Bird Suite - Mod & CAN Bus Tooling**
+
+This is currently a single tool, but CAN Bus is interesting and tools for investigation are limited.
 
 [![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
 
 **CVE Proof-of-concepts**
+
+The following are just proof-of-concepts i've made for CVE's. Nothing special.
 
 [![Link - github](https://img.shields.io/badge/Tool-CVE202335813-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
 
