@@ -85,8 +85,8 @@ These have not been started yet but exist to help with offensive testing like re
 
 These tools were created with the soul purpose of helping individuals train on topics of all things wireless. I do not like the paywalls that hardware requires to learn. These were created to remove the paywalls behind hardware hacking so that all can learn for free.
 
-[![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/WifiForge)
-[![Link - github](https://img.shields.io/badge/Tool-SDRForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SDRForge)
+[![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/WifiForge)
+[![Link - github](https://img.shields.io/badge/Tool-SDRForge-green?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/SDRForge)
 [![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
 [![Link - github](https://img.shields.io/badge/Tool-BlueForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BlueForge)
 
