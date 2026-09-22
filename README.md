@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="images/heretic_banner.png" alt="my banner">   
+
+  <img src="images/heretic_banner.png" alt="my banner">
+
+  # Ben Bowman
+  *Penetration Tester @ Black Hills Information Security*
+
+  [![Link - LinkedIn](https://img.shields.io/badge/Social-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ben-bowman-958740250/)
+  [![Link - news](https://img.shields.io/badge/news-BHIS-blue?style=for-the-badge&logo=news)](https://www.blackhillsinfosec.com/team/ben-bowman/)
+
+</div>
+
+---
 
 ## In the Public Eye
 
@@ -35,11 +46,13 @@
 
 [![Link - news](https://img.shields.io/badge/published-CyberDeception-white?style=for-the-badge&logo=news)](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
 
+---
+
 ## Tools
 
 **Cyber Deception Tools**
 
-These were mainly created to help support a research paper in the efficacy of cyber deception which can be found published on IEEE [here](https://ieeexplore.ieee.org/document/10778664/authors?.fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
+These were mainly created to help support a research paper in the efficacy of cyber deception which can be found published on IEEE [here](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
 
 [![Link - github](https://img.shields.io/badge/Tool-GOSPOOF-yellow?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
 [![Link - github](https://img.shields.io/badge/Tool-Conpot-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/conpot)
@@ -89,6 +102,14 @@ The following are just proof-of-concepts i've made for CVE's. Nothing special.
 
 [![Link - github](https://img.shields.io/badge/Tool-CVE202335813-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
 
-![Snake animation](https://raw.githubusercontent.com/her3ticAVI/her3ticAVI/output/github-contribution-grid-snake-dark.svg)
+---
 
-![](https://komarev.com/ghpvc/?username=her3ticAVI)
+<div align="center">
+
+  ![Snake animation](https://raw.githubusercontent.com/her3ticAVI/her3ticAVI/output/github-contribution-grid-snake-dark.svg)
+
+  <br>
+
+  ![](https://komarev.com/ghpvc/?username=her3ticAVI)
+
+</div>
