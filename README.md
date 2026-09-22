@@ -39,7 +39,7 @@
 
 **Cyber Deception Tools**
 
-These were mainly created to help support a research paper in the efficacy of cyber deception which can be found published on IEEE [here](https://ieeexplore.ieee.org/document/10778664/authors?fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
+These were mainly created to help support a research paper in the efficacy of cyber deception which can be found published on IEEE [here](https://ieeexplore.ieee.org/document/10778664/authors?.fbclid=IwY2xjawIzC6tleHRuA2FlbQIxMQABHQQ1TOdcDVbjJruqkJz6XwSylD0mMkKKpcvoQ-FVdmdUfZptN3nwgyXL0Q_aem_NZU1KpTmryQ8k9L5Ud3-uA)
 
 [![Link - github](https://img.shields.io/badge/Tool-GOSPOOF-yellow?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
 [![Link - github](https://img.shields.io/badge/Tool-Conpot-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/conpot)
