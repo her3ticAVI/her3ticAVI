@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/heretic_banner.png" alt="my banner">
+  <img src="images/wifiheretic.jpg" alt="my banner">
 
   # Ben Bowman
   *Penetration Tester @ Black Hills Information Security*
