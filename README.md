@@ -36,31 +36,43 @@
 
 ## Tools
 
-**Weapons Suite - Offensive Tools**
+**Cyber Deception Tools**
 
-[![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
+[![Link - github](https://img.shields.io/badge/Tool-GOSPOOF-yellow?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
+[![Link - github](https://img.shields.io/badge/Tool-Conpot-yellow?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/conpot)
+
+**Pentesting Aids**
+
+[![Link - github](https://img.shields.io/badge/Tool-BabelFish-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BabelFish)
+[![Link - github](https://img.shields.io/badge/Tool-CeWlMangle-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CeWL-Mangle)
+
+**Offensive Proof-of-concepts**
+
 [![Link - github](https://img.shields.io/badge/Tool-n8ked-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/n8ked)
 [![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
+
+**Space Suite - Offensive Tools**
+
+[![Link - github](https://img.shields.io/badge/Tool-TITANII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TITANII)
 [![Link - github](https://img.shields.io/badge/Tool-OLYMPII-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/OLYMPII)
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 [![Link - github](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT)
 [![Link - github](https://img.shields.io/badge/Tool-PEACEKEEPER-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PEACEKEEPER)
-[![Link - github](https://img.shields.io/badge/Tool-BabelFish-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BabelFish)
-
-**Bug Suite - Defensive Tools**
-
-[![Link - github](https://img.shields.io/badge/Tool-GOSPOOF-yellow?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/go-spoof)
 
 **Black Smith Suite - Training Repos**
 
-[![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/Wifi-Forge)
-[![Link - github](https://img.shields.io/badge/Tool-ExploitingAI-green?style=for-the-badge&logo=github)](https://github.com/NullTrace-Security/Exploiting-AI)
+[![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/WifiForge)
 [![Link - github](https://img.shields.io/badge/Tool-SDRForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SDRForge)
-[![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTE-Forge)
+[![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
+[![Link - github](https://img.shields.io/badge/Tool-BlueForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BlueForge)
 
 **Bird Suite - Mod & Can Bus Pentesting**
 
 [![Link - github](https://img.shields.io/badge/Tool-TOUCANbus-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/TOUCANbus)
+
+**CVE Proof-of-concepts**
+
+[![Link - github](https://img.shields.io/badge/Tool-CVE-2023-35813-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
 
 ![Snake animation](https://raw.githubusercontent.com/her3ticAVI/her3ticAVI/output/github-contribution-grid-snake-dark.svg)
 
