@@ -68,8 +68,8 @@ These just exist to fill small gaps in test tooling that exist.
 
 These are simple tools but passion projects, usually created because I found it neat.
 
-[![Link - github](https://img.shields.io/badge/Tool-n8ked-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/n8ked)
-[![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
+[![Link - github](https://img.shields.io/badge/Tool-n8ked-brightgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/n8ked)
+[![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-brightgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
 
 **Space Suite - Offensive Tools - {{ These are all stale, once the Forge Suite is complete I will begin work here }}**
 
@@ -99,7 +99,7 @@ This is currently a single tool, but CAN Bus is interesting and tools for invest
 
 The following are just proof-of-concepts i've made for CVE's. Nothing special.
 
-[![Link - github](https://img.shields.io/badge/Tool-CVE202335813-red?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
+[![Link - github](https://img.shields.io/badge/Tool-CVE202335813-yellowgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
 
 ---
 
