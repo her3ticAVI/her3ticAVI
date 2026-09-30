@@ -88,7 +88,6 @@ These tools were created with the soul purpose of helping individuals train on t
 [![Link - github](https://img.shields.io/badge/Tool-WifiForge-green?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/WifiForge)
 [![Link - github](https://img.shields.io/badge/Tool-SDRForge-green?style=for-the-badge&logo=github)](https://github.com/blackhillsinfosec/SDRForge)
 [![Link - github](https://img.shields.io/badge/Tool-LTEForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/LTEForge)
-[![Link - github](https://img.shields.io/badge/Tool-BlueForge-green?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/BlueForge)
 
 **Bird Suite - Mod & CAN Bus Tooling**
 
