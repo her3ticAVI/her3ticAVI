@@ -70,6 +70,7 @@ These are simple tools but passion projects, usually created because I found it 
 
 [![Link - github](https://img.shields.io/badge/Tool-n8ked-brightgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/n8ked)
 [![Link - github](https://img.shields.io/badge/Tool-PAMSkeletonKey-brightgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PAMSkeletonKey)
+[![Link - github](https://img.shields.io/badge/Tool-GALileo-brightgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/GALileo)
 
 **Space Suite - Offensive Tools - {{ These are all stale, once the Forge Suite is complete I will begin work here }}**
 
@@ -80,6 +81,7 @@ These have not been started yet but exist to help with offensive testing like re
 [![Link - github](https://img.shields.io/badge/Tool-SPUTNIK-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/SPUTNIK)
 [![Link - github](https://img.shields.io/badge/Tool-COSMONAUGHT-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/COSMONAUGHT)
 [![Link - github](https://img.shields.io/badge/Tool-PEACEKEEPER-orange?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/PEACEKEEPER)
+
 
 **Black Smith Suite - Wireless Landscape Training Tools**
 
