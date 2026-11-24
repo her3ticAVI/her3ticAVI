@@ -100,6 +100,7 @@ This is currently a single tool, but CAN Bus is interesting and tools for invest
 The following are just proof-of-concepts i've made for CVE's. Nothing special.
 
 [![Link - github](https://img.shields.io/badge/Tool-CVE202335813-yellowgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2023-35813)
+[![Link - github](https://img.shields.io/badge/Tool-CVE202662911-yellowgreen?style=for-the-badge&logo=github)](https://github.com/her3ticAVI/CVE-2026-62911)
 
 ---
 
